@@ -32,7 +32,7 @@ Ao final da execução do programa, será exibida uma mensagem contendo o nome d
 
 ## Execução
 
-Para executar o programa, basta utilizar a linguagem de programação de sua preferência e inserir o código fornecido neste repositório.
+Para executar o programa, basta utilizar JavaScript e inserir o código fornecido neste repositório.
 
   
 ## Autor
