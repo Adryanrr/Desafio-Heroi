@@ -2,13 +2,13 @@
 
 let nomeHeroi = ("Adryanrr");
 
-const xpHeroi = 11000;
+const xpHeroi = 0;
 
 const rankDoHeroi = definirRank(xpHeroi);
 
 function definirRank (xpHeroi){
     switch (true) {
-        case xpHeroi <= 1000:
+        case xpHeroi >=1 && xpHeroi <= 1000:
             return "Ferro"
     
         case xpHeroi >= 1001 && xpHeroi <= 2000:
@@ -34,7 +34,7 @@ function definirRank (xpHeroi){
 
             
         default:
-            return "sem rank"
+            return "Sem Rank"
     }
 }
 
